@@ -103,7 +103,7 @@ footer p {
      gap: 3rem;
 }
 
-@media (max-width: 560 px) {
+@media (max-width: 560px) {
 
     body {
         background: url('img/bd-mobile.webp');
